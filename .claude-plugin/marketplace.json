@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "cc-orchestrator-plugin",
+  "description": "Unified orchestrator for Codex CLI and AutoAgent",
+  "owner": {
+    "name": "zacharymuhlbauer"
+  },
+  "plugins": [
+    {
+      "name": "cc-orchestrator-plugin",
+      "description": "Routes tasks to Codex or AutoAgent based on task characteristics",
+      "version": "0.1.0",
+      "author": {
+        "name": "zacharymuhlbauer"
+      },
+      "source": "./",
+      "category": "integrations",
+      "keywords": ["orchestrator", "codex", "autoagent", "routing"]
+    }
+  ]
+}

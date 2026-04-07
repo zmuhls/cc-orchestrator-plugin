@@ -1,0 +1,9 @@
+{
+  "name": "cc-orchestrator-plugin",
+  "version": "0.1.0",
+  "description": "Unified orchestrator for Codex CLI and AutoAgent — routes tasks to the optimal tool",
+  "author": {
+    "name": "zacharymuhlbauer"
+  },
+  "keywords": ["orchestrator", "codex", "autoagent", "routing", "multi-agent"]
+}
